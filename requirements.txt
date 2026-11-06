@@ -1,0 +1,4 @@
+numpy>=1.23
+networkx>=3.0
+matplotlib>=3.5
+notebook
